@@ -1,0 +1,6 @@
+c:\users\sony\documents\visual studio 2015\Projects\14253014HW1\14253014HW1\bin\Debug\14253014HW1.exe.config
+C:\Users\SONY\Documents\Visual Studio 2015\Projects\14253014HW1\14253014HW1\bin\Debug\14253014HW1.exe
+C:\Users\SONY\Documents\Visual Studio 2015\Projects\14253014HW1\14253014HW1\bin\Debug\14253014HW1.pdb
+C:\Users\SONY\Documents\Visual Studio 2015\Projects\14253014HW1\14253014HW1\obj\Debug\14253014HW1.exe
+C:\Users\SONY\Documents\Visual Studio 2015\Projects\14253014HW1\14253014HW1\obj\Debug\14253014HW1.pdb
+C:\Users\SONY\Documents\Visual Studio 2015\Projects\14253014HW1\14253014HW1\obj\Debug\14253014HW1.csprojResolveAssemblyReference.cache
